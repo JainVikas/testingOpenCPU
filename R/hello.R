@@ -14,5 +14,5 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 test <- function(x){
-  x^2
+  (x+1)^2
 }
